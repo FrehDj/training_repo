@@ -2,6 +2,6 @@ print("Khasni LOTO")
 
 def chainos(n):
     for i in range(n):
-        print("-"*1)
+        print("-"*i)
         
 chainos(20)
